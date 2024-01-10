@@ -6,8 +6,8 @@ export default function Header() {
     <div className='header home'>
       <div className="title">Fresh From The Sea <br /> To Your Table</div>
       <div className="header-btns">
-       <a  href="/menu"><button className='bg-white'>View Menus</button></a>
-        <a href="/reservation"><button className='bg-trans'>Find A Table</button></a>
+       <a  href="/tide-tackle/menu"><button className='bg-white'>View Menus</button></a>
+        <a href="/tide-tackle/reservation"><button className='bg-trans'>Find A Table</button></a>
       </div>
       <div className="curve">
         <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">

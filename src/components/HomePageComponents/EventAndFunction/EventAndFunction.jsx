@@ -15,9 +15,9 @@ export default function EventAndFunction() {
                     </Fade>
                     <Fade bottom duration={1000} distance="50%">
                         <ul>
-                            <li><a href="/event">I. Private Dining Room</a></li>
-                            <li><a href="/event">II. Functions Package</a></li>
-                            <li><a href="/event">III. Beverage Package</a></li>
+                            <li><a href="/tide-tackle/event">I. Private Dining Room</a></li>
+                            <li><a href="/tide-tackle/event">II. Functions Package</a></li>
+                            <li><a href="/tide-tackle/event">III. Beverage Package</a></li>
                         </ul>
                     </Fade>
                 </div>

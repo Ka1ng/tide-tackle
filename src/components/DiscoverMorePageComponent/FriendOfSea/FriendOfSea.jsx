@@ -16,7 +16,7 @@ export default function FriendOfSea() {
                         <div className="sec-title">FRIEND OF THE SEA</div>
                         <div className="text br">Sustainability is a key concept that is also spreading into the hospitality industry.</div>
                         <div className="text">By sourcing their fish and seafood from certified suppliers, restaurants and other food outlets can ensure not only the traceability of the products that they are selling but also that sustainable restaurant practices are contributing to the sustainability and environmental impact of their operations.</div>
-                        <a href="/menu"><button className="bg-lateseagreen">View Full Menu</button></a>
+                        <a href="/tide-tackle/menu"><button className="bg-lateseagreen">View Full Menu</button></a>
                     </Fade>
                 </div>
             </div>

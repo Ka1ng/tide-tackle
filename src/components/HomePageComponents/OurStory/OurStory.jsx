@@ -18,7 +18,7 @@ export default function OurStory() {
             <div className="text br">Food is the foundation of true happiness. Eating is a great way <br /> to socialize with loved ones.</div>
             <div className="text">We see our customers as invited guests to a party, and we are the hosts. It’s our job every day to make every important aspect of the customer experience a little bit better.
               A business that prepares and serves food and drinks to customers. Meals are generally served and eaten on the premises.</div>
-            <a href="/discover-more"><button className="bg-lateseagreen">Discover more</button></a>
+            <a href="/tide-tackle/discover-more"><button className="bg-lateseagreen">Discover more</button></a>
           </Fade>
         </div>
 

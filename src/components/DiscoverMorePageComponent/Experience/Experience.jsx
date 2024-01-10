@@ -12,7 +12,7 @@ export default function Experience() {
                         <div className="sec-title">Experience</div>
                         <div className="text br">Simple and balanced. Alexander Petillo brings together flavors and specialties from Italy and beyond to create his own culinary world, full of surprising artistry.</div>
                         <div className="text">“I traveled all over the world, feeling and learning the authenticity of each local speciality food. I benefit a lot from working with other chefs and restaurants. In Japan, in Thailand, in Sweden, in Mexico, and elsewhere, chefs have different philosophies and ways of handling ingredients.”</div>
-                        <a href="/event"><button className="bg-lateseagreen">Celebrate At Tide & Tackle</button></a>
+                        <a href="/tide-tackle/event"><button className="bg-lateseagreen">Celebrate At Tide & Tackle</button></a>
                     </Fade>
                 </div>
                 <div className='wrapperImg'>

@@ -16,9 +16,9 @@ export default function OurMenu() {
                     </Fade>
                     <Fade bottom duration={1000} distance="50%">
                         <ul>
-                            <li><a href="/menu">I. A la Carte Menu</a></li>
-                            <li><a href="/tasting-menu">II. Tasting Menu</a></li>
-                            <li><a href="/wine-list">III. Wine List</a></li>
+                            <li><a href="/tide-tackle/menu">I. A la Carte Menu</a></li>
+                            <li><a href="/tide-tackle/tasting-menu">II. Tasting Menu</a></li>
+                            <li><a href="/tide-tackle/wine-list">III. Wine List</a></li>
                         </ul>
                     </Fade>
                 </div>

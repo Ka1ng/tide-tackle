@@ -15,7 +15,7 @@ export default function TimelessTradition() {
                         <div className="sub-title">TIME PROVES QUALITY</div>
                         <div className="sec-title">TIMELESS TRADITION</div>
                         <div className="text br">Since the first restaurant opened at Darling Harbour in 1989, The PatioTime has brought together our passion for quality seafood, family values, and seasoned restaurant experience. Every time you eat with us, you’re tasting years of hard work, innovation, and commitment to good food.</div>
-                        <a href="/menu"><button className="bg-lateseagreen">Dine With Us</button></a>
+                        <a href="/tide-tackle/menu"><button className="bg-lateseagreen">Dine With Us</button></a>
                     </Fade>
                 </div>
             </div>

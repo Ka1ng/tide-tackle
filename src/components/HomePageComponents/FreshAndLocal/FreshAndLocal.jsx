@@ -12,7 +12,7 @@ export default function FreshAndLocal() {
         <div className="text">We serve only the freshest catches from water.
           Seafood is our passion, <br />freshness is our mission, and quality is our commitment</div>
       </Fade>
-      <a href="/discover-more">
+      <a href="/tide-tackle/discover-more">
         <Fade bottom duration={1000} distance="100px">
           <button className='bg-lateseagreen'>discover more</button>
         </Fade>
