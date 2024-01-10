@@ -8,36 +8,36 @@ import WineList from "../pages/WineList";
 import Event from "../pages/Event"
 
 import {
-    createHashRouter,
+    createBrowserRouter,
 } from "react-router-dom";
 
-const router = createHashRouter([
+const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/tide-tackle/",
         element:  <Layout />,
         children: [
             {
-               path: '/',
+               path: '/tide-tackle/',
                element: <Home/>
             },
             {
-                path: "/menu",
+                path: "/tide-tackle/menu",
                 element: <MenuPage/>
             },
             {
-                path: "/reservation",
+                path: "/tide-tackle/reservation",
                 element: <BookATablePage/>
             },
             {
-                path: "/discover-more",
+                path: "/tide-tackle/discover-more",
                 element: <DiscoverMore/>
             },
             {
-                path: "/tasting-menu",
+                path: "/tide-tackle/tasting-menu",
                 element: <TastingMenu/>
             },
             {
-                path: "/wine-list",
+                path: "/tide-tackle/wine-list",
                 element: <WineList/>
             },
             {
