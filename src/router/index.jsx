@@ -7,11 +7,13 @@ import TastingMenu from "../pages/TastingMenu";
 import WineList from "../pages/WineList";
 import Event from "../pages/Event"
 
-import {
-    createBrowserRouter,
-} from "react-router-dom";
+// import {
+//     createBrowserRouter,
+// } from "react-router-dom";
 
-const router = createBrowserRouter([
+import { HashRouter } from "react-router-dom";
+
+const router = HashRouter([
     {
         path: "/tide-tackle/",
         element:  <Layout />,
