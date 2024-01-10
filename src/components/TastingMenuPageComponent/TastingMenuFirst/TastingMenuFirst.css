@@ -1,0 +1,10 @@
+.tastingMenuFirst .wrapperImg{
+    height: 740px;
+}
+
+/* Breaking Points */
+@media screen and (max-width:834px){
+    .tastingMenuFirst .wrapperImg{
+        height: 300px;
+    }
+}

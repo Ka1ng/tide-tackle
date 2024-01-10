@@ -1,0 +1,8 @@
+.afterMainCourses{
+    background-image: url(../../../assets//menuPage-afterMainCourses.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 100%;
+}

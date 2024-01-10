@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "La Gioiosa Moscato",
+        "ingredient": "NV - Veneto, Italy",
+        "glassPrice" : 13,
+        "bottlePrice" : 61
+    },
+    {
+        "id": 2,
+        "name": "Willowglen Sparkling Brut",
+        "ingredient": "NV - Riverina NSW",
+        "glassPrice" : 10,
+        "bottlePrice" : 48
+    },
+    {
+        "id": 3,
+        "name": "Chandon Brut",
+        "ingredient": "NV - Yarra Valley, VIC",
+        "glassPrice" : 15,
+        "bottlePrice" : 74
+    },
+    {
+        "id": 4,
+        "name": "Dom Pérignon Brut",
+        "ingredient": "2012 - Épernay, France",
+        "glassPrice" : 10,
+        "bottlePrice" : 48
+    },
+    {
+        "id": 5,
+        "name": "Gilbert Blanc de Blancs",
+        "ingredient": "2016 - Orange",
+        "glassPrice" : 26,
+        "bottlePrice" : 99
+    }
+]

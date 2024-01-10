@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Baked Salmon",
+        "ingredient": "Fresh salmon fillet marinated in coconut cream",
+        "price": 42
+    },
+    {
+        "id": 2,
+        "name": "Seafood Platter",
+        "ingredient": "Blue swimmer crab, Tasmanian mussels, Crystal Bay prawns",
+        "price": 110
+    },
+    {
+        "id": 3,
+        "name": "Fillets of Red Mullet",
+        "ingredient": "With a pickled walnut and spring onion dressing",
+        "price": 38
+    },
+    {
+        "id": 4,
+        "name": "Salt Aged Sirloin Steak",
+        "ingredient": "Served with a parsley and pickled walnut salad",
+        "price": 42
+    },
+    {
+        "id": 5,
+        "name": "Prawn Burger",
+        "ingredient": "With a spiced tartare sauce and chips",
+        "price": 19
+    }
+]

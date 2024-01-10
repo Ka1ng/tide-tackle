@@ -1,0 +1,8 @@
+.afterSparkling{
+    background-image: url(../../../assets/wineListPage-afterSparklingPic.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 100%;
+}

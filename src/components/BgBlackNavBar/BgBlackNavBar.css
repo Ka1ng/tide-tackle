@@ -1,0 +1,10 @@
+.navBar.bg-black{
+    padding: 1rem 5rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 100;
+    color: #efefef;
+    background-color: black;
+}

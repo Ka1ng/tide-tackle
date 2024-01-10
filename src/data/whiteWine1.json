@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Astrolabe Farm Dry Riesling",
+        "ingredient": "2019 - Wairau Valley, Marlborough NZ",
+        "price" : 71
+    },
+    {
+        "id": 2,
+        "name": "Little Angel Sauvignon Blanc",
+        "ingredient": "2021 - Marlborough, NZ",
+        "price" : 63
+    },
+    {
+        "id": 3,
+        "name": "Cloudy Bay Sauvignon Blanc",
+        "ingredient": "2021 - Marlborough, NZ",
+        "price" : 99
+    },
+    {
+        "id": 4,
+        "name": "Printhie ‘Topography’ Pinot Gris",
+        "ingredient": "2021 - Orange NSW",
+        "price" : 73
+    }
+]

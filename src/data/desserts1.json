@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Home-made Citrus Tart",
+        "ingredient": "Served with vanilla gelato",
+        "price": 15
+    },
+    {
+        "id": 2,
+        "name": "Apple & Blueberry Crumble",
+        "ingredient": "Served with vanilla gelato & blueberry compote",
+        "price": 16
+    },
+    {
+        "id": 3,
+        "name": "Basque Cheesecake",
+        "ingredient": "Puff pastry, poached rhubarb, cheesecake mousse",
+        "price": 17
+    }
+]

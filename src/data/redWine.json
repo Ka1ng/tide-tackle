@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Sidewood Estate Pinot Noir",
+        "ingredient": "2020 - Adelaide Hills SA",
+        "price" : 73
+    },
+    {
+        "id": 2,
+        "name": "Chard Farm River Run Pinot Noir",
+        "ingredient": "2020 - Central Otago NZ",
+        "price" : 88
+    },
+    {
+        "id": 3,
+        "name": "La Villa Pinot Noir",
+        "ingredient": "2019 - Spreyton TAS",
+        "price" : 91
+    },
+    {
+        "id": 4,
+        "name": "Lusatia Park Pinot Noir",
+        "ingredient": "2017 - Yarra Valley VIC",
+        "price" : 270
+    },
+    {
+        "id": 5,
+        "name": "Willunga 100 Grenache",
+        "ingredient": "2020 - McLaren Vale SA",
+        "price" : 66
+    }
+]

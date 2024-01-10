@@ -1,0 +1,35 @@
+.tastingMenu-wrapper{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.wrapperTextContainer{
+    text-align: center;
+    color: #073b4c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 80px 0;
+}
+
+.wrapperImgContainer{
+    height: 900px;
+}
+
+/* Breaking Points */
+@media screen and (max-width:834px){
+
+    .tastingMenu-wrapper{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .wrapperImgContainer{
+        height: 300px;
+        order: 1;
+    }
+
+    .wrapperTextContainer{
+        order: 2;
+    }
+}

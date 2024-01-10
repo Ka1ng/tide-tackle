@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Seafood Curry",
+        "ingredient": "Mixed prawns, Mussels, Calamari and Fish",
+        "price" : 39
+    },
+    {
+        "id": 2,
+        "name": "Grilled Barramundi",
+        "ingredient": "Potato, Rocket, Garnished with Picked Ginger",
+        "price" : 39
+    },
+    {
+        "id": 3,
+        "name": "Lobster",
+        "ingredient": "Whole Fresh Western Australia Lobster",
+        "price" : 58
+    },
+    {
+        "id": 4,
+        "name": "Seafood Platter",
+        "ingredient": "Crab, Mussels, Prawns, Served Chilled",
+        "price" : 99
+    }
+]

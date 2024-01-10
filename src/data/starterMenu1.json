@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Purple Corn Tostada",
+        "ingredient": "Ricotta, goat cheese, beetroot and datterini",
+        "price" : 36
+    },
+    {
+        "id": 2,
+        "name": "Bruno's Scribble",
+        "ingredient": "Culatello, Spalla Cotta, Mortadella, Culacciona",
+        "price" : 30
+    },
+    {
+        "id": 3,
+        "name": "Fresh Oysters Dozen",
+        "ingredient": "Our selection of fresh oysters, limes",
+        "price" : 59
+    },
+    {
+        "id": 4,
+        "name": "Wild Mushroom Arancini",
+        "ingredient": "Porcini purée, parmesan, basil",
+        "price" : 18
+    }
+]

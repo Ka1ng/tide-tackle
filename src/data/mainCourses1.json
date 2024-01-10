@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Crispy Skin Chicken",
+        "ingredient": "Ricotta, radicchio, prosciutto salad, cabernet",
+        "price": 33
+    },
+    {
+        "id": 2,
+        "name": "Grilled Barramundi",
+        "ingredient": "Potato, Rocket, Garnished with Picked Ginger",
+        "price": 39
+    },
+    {
+        "id": 3,
+        "name": "Lobster",
+        "ingredient": "Whole Fresh Western Australia Lobster",
+        "price": 58
+    },
+    {
+        "id": 4,
+        "name": "Fish & Chips",
+        "ingredient": "Atlantic cod fillet, chips, salad, tartare, lemon",
+        "price": 33
+    },
+    {
+        "id": 5,
+        "name": "Seafood Curry",
+        "ingredient": "Mixed prawns, Mussels, Calamari and Fish",
+        "price": 39
+    }
+]

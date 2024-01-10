@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Garlic Bread",
+        "ingredient": "Cucumber, cherry tomatoes, feta & house dressing",
+        "price" : 9
+    },
+    {
+        "id": 2,
+        "name": "Crab & Prawn Bites",
+        "ingredient": "Seeded sourdough, avocado, crab & prawn meat",
+        "price" : 21
+    },
+    {
+        "id": 3,
+        "name": "Garden Salad",
+        "ingredient": "Cucumber, cherry tomatoes, feta & house dressing",
+        "price" : 18
+    },
+    {
+        "id": 4,
+        "name": "Pumpkin Salad",
+        "ingredient": "Organic quinoa, wild rocket, goats cheese, honey dressing",
+        "price" : 21
+    }
+]

@@ -1,0 +1,21 @@
+.tastingMenuThird .wrapperImgContainer{
+    height: 910px;
+}
+
+/* Breaking Points */
+@media screen and (max-width:834px){
+
+    .tastingMenu-wrapper{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .tastingMenuThird .wrapperImgContainer{
+        height: 300px;
+        order: 1;
+    }
+
+    .wrapperTextContainer{
+        order: 2;
+    }
+}

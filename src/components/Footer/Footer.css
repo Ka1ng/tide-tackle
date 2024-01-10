@@ -1,0 +1,196 @@
+.sign-up-section{
+    display: grid;
+    grid-template-columns: 1fr 600px;
+    padding: 100px;
+    align-items: center;
+    text-align: start;
+    gap: 50px !important;
+    position: relative;
+    background-color: #efefef;
+}
+
+.sign-up-section .list-title{
+    text-align: start;
+    line-height: 3rem;
+}
+
+.sign-up-section .emailInput{
+    width: 100%;
+    padding: 0.5rem 0px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    font-size: 1rem;
+    color: #073b4c;
+    background-color: transparent;
+    border-bottom: 1px solid #073b4c;
+    transition: 0.3s;
+    margin: 5px 0px;
+    margin-bottom: 20px;
+    padding-right: 30px;
+}
+
+.sign-up-text{
+    color: #073b4c;
+}
+
+.sign-up-form{
+    color: #073b4c;
+    position: relative;
+}
+
+.sign-up-form .right-arrow{
+    width: 30px;
+    position: absolute;
+    top: 10px;
+    right: 0;
+    cursor: pointer;
+}
+
+.sign-up-section label{
+    font-size: 0.85rem;
+    user-select: none;
+}
+
+.sign-up-section span{
+    user-select: none;
+    font-size: 0.85rem;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.sign-up-section span:hover{
+    color: #eb5e28;
+}
+
+.contact-section{
+    background-image: url(../../assets/footer.jpg);
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    position: relative;
+    isolation: isolate;
+    color: white;
+    padding: 150px 80px;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 70px;
+}
+
+.contact-section::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background-color: #203d47;
+    z-index: -1;
+    opacity: 0.8;
+    left: 0;
+    top: 0;
+}
+
+.logo-section .icon-list{
+    margin-top: 0px;
+}
+
+.logo-section .icon-list i{
+    margin-right: 30px;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.logo-section .icon-list i:hover{
+    color: #eb5e28;
+}
+
+.logo-section .logo{
+    font-size: 2.5rem;
+}
+
+.logo-section .text,
+.location-section .text,
+.hour-section .text{
+    font-size: 0.95rem;
+    line-height: 1.5rem;
+    margin: 20px 0;
+}
+
+.text.section-title{
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.footer.btn{
+    background-color: transparent;
+    color: white;
+    width: 100%;
+    border: 1px solid white;
+}
+
+.footer.btn:hover{
+    background-color: white;
+    color: black;
+}
+
+.footer.btn.orange{
+    background-color: #eb5e28;
+    border: 2px solid #eb5e28;
+    color: white;
+}
+
+.contact-mail-section button{
+    margin: 10px 0;
+}
+
+.shape {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    z-index: 100;
+}
+
+.shape svg {
+    position: relative;
+    display: block;
+    width: calc(116% + 1.3px);
+    height: 100px;
+    transform: rotateY(180deg);
+}
+
+.shape .shape-fill {
+    fill: #efefef;
+}
+
+/* Breaking point */
+@media screen and (max-width:1203px){
+    .contact-section{
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+        padding: 150px 50px 50px;
+    }
+}
+
+@media screen and (max-width:1113px) {
+    .sign-up-section{
+        padding: 50px;
+        grid-template-columns: 1fr;
+        align-items: center;
+        text-align: start;
+        gap: 10px !important;
+    }
+    
+}
+
+@media screen and (max-width:958px){
+    .contact-section{
+        grid-template-columns: repeat(1, 1fr);
+        gap: 0px;
+    }
+}

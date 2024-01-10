@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Rob Dolan ‘True Colours’",
+        "ingredient": "2019 - Yarra Valley VIC",
+        "price" : 63
+    },
+    {
+        "id": 2,
+        "name": "Rosily Estate Chardonnay (Organic)",
+        "ingredient": "2021 - Margaret River WA",
+        "price" : 73
+    },
+    {
+        "id": 3,
+        "name": "Creamery Barrel Fermented",
+        "ingredient": "2022 - California USA",
+        "price" : 81
+    },
+    {
+        "id": 4,
+        "name": "Montalto Estate Chardonnay",
+        "ingredient": "2019 - Mornington Peninsula",
+        "price" : 88
+    }
+]

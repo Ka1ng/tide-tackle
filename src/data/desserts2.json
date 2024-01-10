@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Red Cheese Mousse",
+        "ingredient": "Cheese mousse, hazelnut & chocolate snow, strawberry",
+        "price": 18
+    },
+    {
+        "id": 2,
+        "name": "Warm Apple Cake",
+        "ingredient": "Apple, sorbet, brown butter, puff pastry",
+        "price": 18
+    },
+    {
+        "id": 3,
+        "name": "Classic Tiramisù",
+        "ingredient": "Espresso-soaked ladyfingers, whipped cream, mascarpone",
+        "price": 15
+    }
+]

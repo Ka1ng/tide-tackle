@@ -1,0 +1,41 @@
+.navBar{
+    padding: 2rem 5rem;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 100;
+    color: #efefef;
+    transition: 0.5s;
+    z-index: 1000;
+}
+
+.navBar.active{
+    padding: 0.5rem 2rem;
+    background-color: black;
+}
+
+.navBar.active .logo{
+    font-size: 30px;
+}
+
+.navBar a{
+    color: #efefef;
+}
+
+.nav-btn-div button{
+    margin-top: 0rem !important;    
+}
+
+.navBar.active .nav-btn-div button{
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+}
+
+/* BreakPoints */
+    /* @media screen and (max-width:768px) {
+
+        .navBar{
+            padding: 2rem 2rem;
+        }
+    } */

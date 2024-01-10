@@ -1,0 +1,32 @@
+.bigImgContainer{
+    height: 700px;
+    /* width: 500px; */
+    margin: auto;
+    margin-top: 30px;
+}
+
+.list-ul{
+    position: relative;
+}
+
+.list-ul .gls,
+.list-ul .btl{
+    position: absolute;
+    color: #073b4c;
+    font-size: 0.85rem;
+}
+
+.list-ul .gls{
+    right: 40px;
+}
+
+.list-ul .btl{
+    right: 0px;
+}
+
+/* Breakihg points */
+@media screen and (max-width:1186px) {
+    .sparkling .list-ul{
+        margin-top: 20px;
+    }
+}
