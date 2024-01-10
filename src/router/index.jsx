@@ -11,15 +11,15 @@ import Event from "../pages/Event"
 //     createBrowserRouter,
 // } from "react-router-dom";
 
-import { HashRouter } from "react-router-dom";
+import { createBrowserRouter } from "react-router-dom";
 
-const router = HashRouter([
+const router = createBrowserRouter([
     {
-        path: "/tide-tackle/",
+        path: "/",
         element:  <Layout />,
         children: [
             {
-               path: '/tide-tackle/',
+               path: '',
                element: <Home/>
             },
             {
