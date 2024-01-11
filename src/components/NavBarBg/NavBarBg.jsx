@@ -10,7 +10,7 @@ export default function NavBarBg({ setShow, show, setReservShow }) {
                     </svg>
                 </div>
                 <div className="brand-logo">
-                    <a href="/tide-tackle"><div className="logo">Tide & Tackle</div>
+                    <a href="/tide-tackle/"><div className="logo">Tide & Tackle</div>
                         <p>SEAFOOD EST.1998</p></a>
                 </div>
 
