@@ -13,7 +13,7 @@ export default function TastingMenuFirst() {
                         <div className="sec-title">TASTING MENU</div>
                         <div className="text br">Choose one of our seasonal menus. Enjoy three sharing starters, followed by the feast of your choice. There is an option to add a cheese course onto each menu.</div>
                         <div className="text">We are happy to tweak your menu to suit any dietary requirements.</div>
-                        <a href="/reservation"><button className='bg-white'>Make A Reservation</button></a>
+                        <a href="/tide-tackle/reservation"><button className='bg-white'>Make A Reservation</button></a>
                     </Fade>
                 </div>
                 <div className='wrapperImg'>
