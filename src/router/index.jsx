@@ -19,7 +19,7 @@ const router = createBrowserRouter([
         element:  <Layout />,
         children: [
             {
-               path: '/tide-tackle',
+               path: '',
                element: <Home/>
             },
             {
