@@ -15,11 +15,11 @@ import { createBrowserRouter } from "react-router-dom";
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/tide-tackle",
         element:  <Layout />,
         children: [
             {
-               path: '',
+               path: '/tide-tackle',
                element: <Home/>
             },
             {
@@ -43,7 +43,7 @@ const router = createBrowserRouter([
                 element: <WineList/>
             },
             {
-                path: "/event",
+                path: "/tide-tackle/event",
                 element: <Event/>
             }
         ]
