@@ -10,13 +10,13 @@ export default function SideBar({ setShow, show, showRef, setReservShow, reservR
                         <path strokeLinecap="round" strokeLinejoin="round" d="M6 18 18 6M6 6l12 12" />
                     </svg>
                     <ul className='page-list'>
-                        <li><a href="#">HOME</a></li>
-                        <li><a href="#">ABOUT</a></li>
-                        <li><a href="#">MENUS</a></li>
-                        <li><a href="#">TASTING MENU</a></li>
-                        <li><a href="#">WINE LIST</a></li>
-                        <li><a href="#">EVENTS</a></li>
-                        <li><a href="#">NEWS</a></li>
+                        <li><a href="/tide-tackle/">HOME</a></li>
+                        <li><a href="/tide-tackle/discover-more">ABOUT</a></li>
+                        <li><a href="/tide-tackle/menu">MENUS</a></li>
+                        <li><a href="/tide-tackle/menu">TASTING MENU</a></li>
+                        <li><a href="/tide-tackle/wine-list">WINE LIST</a></li>
+                        <li><a href="/tide-tackle/event">EVENTS</a></li>
+                        <li><a href="/tide-tackle/discover-more">NEWS</a></li>
                     </ul>
                     <button onClick={()=>setReservShow(true)} ref={reservRef}>make a reservation</button>
                     <ul className='icon-list'>
